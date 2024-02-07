@@ -6,3 +6,5 @@ Debug/
 *.filters
 *.user
 untrack.txt
+*.log
+log/
