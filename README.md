@@ -11,3 +11,7 @@ change something
 
 ## How To Contribute
 I implemented and tested some sort algorithms
+
+### Copyright 
+
+2024 Git.Traning
