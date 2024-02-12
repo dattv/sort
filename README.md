@@ -10,7 +10,7 @@ This is a simple sort, deployment can be
 change something
 
 ## How To Contribute
-I implemented and tested some sort algorithms
+Please fork this repository and then issue PullRequests fo review.
 
 ### Copyright 
 
